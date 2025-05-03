@@ -1,7 +1,8 @@
 # 🎮 2048 Game - Python (Pygame)
 
 A classic **2048 sliding puzzle game** implemented in Python using the Pygame library. Merge tiles to reach the elusive **2048 tile**!
-![Screenshot 2025-05-03 194006](https://github.com/user-attachments/assets/b285254b-7594-4496-ad08-63cfc8e39ce7)
+
+![Screenshot 2025-05-03 194006](https://github.com/user-attachments/assets/5387dee1-1171-4918-8893-8f74a5432c44)
 
 ---
 
